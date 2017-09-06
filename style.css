@@ -1,0 +1,46 @@
+body{
+    margin: 14px;
+}
+.base{
+	display: inline-block;
+    color: #2878a1;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+
+}
+
+.art{
+	margin-top: 75px;
+}
+
+
+#heading-text{
+    font-size: 18px;
+    font-family:sans-serif;
+}
+
+.image{
+    height: 38px;
+    width: 37px;
+}
+
+#design1{
+        width: 90px;
+        height: 80px;
+}
+
+.thumbBtn{
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    margin-left: 14px;
+    border: 5px #ba8f8f;
+}
+
+.middle-img{
+    width: 100%;
+    margin: 17px;
+}
+
+
