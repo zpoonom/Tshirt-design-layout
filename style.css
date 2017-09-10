@@ -44,3 +44,28 @@ body{
 }
 
 
+ 
+.img-2{
+    width: 72%;
+    background-color: white;
+    margin-top:10px;
+    margin-left:10px;
+    margin-bottom: 20px;
+
+}
+.container{
+    background-color: #F2F2F2;
+    height: 180px;
+}
+
+
+
+.color{
+    margin: 10px;
+}
+
+.price{
+    font-size: 25px;
+    
+    font-family: bold;
+}
