@@ -66,6 +66,22 @@ body{
 
 .price{
     font-size: 25px;
-    
     font-family: bold;
 }
+
+.width{
+      width: 500px;
+}
+ 
+ .BTN-1{
+    padding-left: 40px;
+    padding-right: 40px;
+ }
+
+ .img-3{
+    width: 80%;
+ }
+
+ .img-4{
+    width: 30%;
+ }
