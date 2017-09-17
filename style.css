@@ -26,8 +26,9 @@ body{
 }
 
 #design1{
-        width: 90px;
-        height: 80px;
+        width: 20%;
+        margin-left: 15px;
+        
 }
 
 .thumbBtn{
@@ -39,26 +40,15 @@ body{
 }
 
 .middle-img{
-    width: 100%;
-    margin: 17px;
+    width: 95%;
+    
 }
 
 
  
 .img-2{
-    width: 72%;
-    background-color: white;
-    margin-top:10px;
-    margin-left:10px;
-    margin-bottom: 20px;
-
+    width: 60%;
 }
-.container{
-    background-color: #F2F2F2;
-    height: 180px;
-}
-
-
 
 .color{
     margin: 10px;
@@ -85,3 +75,11 @@ body{
  .img-4{
     width: 30%;
  }
+
+ .box{
+     background-color: #F2F2F2;
+ }
+
+ #design2{
+        width: 50%;
+    }
