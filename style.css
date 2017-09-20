@@ -1,6 +1,4 @@
-body{
-    margin: 14px;
-}
+
 .base{
 	display: inline-block;
     color: #2878a1;
@@ -18,6 +16,7 @@ body{
 #heading-text{
     font-size: 18px;
     font-family:sans-serif;
+   
 }
 
 .image{
@@ -83,3 +82,20 @@ body{
  #design2{
         width: 50%;
     }
+
+    .gap{
+        padding: 8px;
+    }
+
+.size{
+    width: 90%;
+}
+
+.blank{
+    width: 500px;
+}
+
+.gap1{
+    width: 280px;
+    padding: 18px;
+}
